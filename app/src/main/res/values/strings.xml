@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="firebase_authencation">Firebase Authencation</string>
+    <string name="email_and_password">Email and Password</string>
+    <string name="phone_authentication">Phone Authentication</string>
+    <string name="facebook_authentication">Facebook authentication</string>
+    <string name="github_authentication">Github authentication</string>
+    <string name="google_authentication">Google Authentication</string>
+</resources>
