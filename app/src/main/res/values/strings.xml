@@ -9,4 +9,5 @@
     <string name="firebase">Firebase</string>
     <string name="login">Login</string>
     <string name="not_a_user_click_here"><u>not a user ! click here</u></string>
+    <string name="sign_up">Sign Up</string>
 </resources>
