@@ -10,7 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".GithubAuth"></activity>
+        <activity android:name=".Welcome"></activity>
+        <activity android:name=".GithubAuth" />
         <activity android:name=".FbAuth" />
         <activity android:name=".EmailAuth" />
         <activity android:name=".PhoneAuth" />

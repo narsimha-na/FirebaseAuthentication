@@ -64,7 +64,7 @@ public class EmailAuth extends AppCompatActivity {
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 if(task.isSuccessful()){
                                     Toast.makeText(EmailAuth.this, "Email Authentication Successfully !", Toast.LENGTH_SHORT).show();
-                                    startActivity(new Intent(EmailAuth.this,MainActivity.class));
+                                    startActivity(new Intent(EmailAuth.this,Welcome.class));
                                 }else{
                                     Toast.makeText(EmailAuth.this, "Email Authentication Failed !"+task.getException(), Toast.LENGTH_SHORT).show();
                                 }

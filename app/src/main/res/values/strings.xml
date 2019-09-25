@@ -10,4 +10,5 @@
     <string name="login">Login</string>
     <string name="not_a_user_click_here"><u>not a user ! click here</u></string>
     <string name="sign_up">Sign Up</string>
+    <string name="click_here_to_send_the_otp_again"><u>click here to send the OTP again !</u></string>
 </resources>
